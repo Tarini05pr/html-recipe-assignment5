@@ -15,7 +15,7 @@ html {
   display: blcok;
 }
 body {
-  background: url(/images/backgroundflwr.jpeg) no-repeat center center fixed;
+  background: url(./images/backgroundflwr.jpeg) no-repeat center center fixed;
   background-size: cover;
   font-family: "Arial", sans-serif;
   color: #333;
